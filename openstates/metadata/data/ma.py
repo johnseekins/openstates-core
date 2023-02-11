@@ -983,18 +983,6 @@ MA = State(
             ),
         ],
     ),
-    """
-    Missing district for ocd-division/country:us/state:ma/sldu:worcester_and_norfolk
-Missing district for ocd-division/country:us/state:ma/sldu:hampden_hampshire_worcester
-Missing district for ocd-division/country:us/state:ma/sldu:worcester_an_hampden
-Missing district for ocd-division/country:us/state:ma/sldu:worcester_hampden_hampshire_and_middlesex
-Missing district for ocd-division/country:us/state:ma/sldu:2nd_middlesex_and_norfolk
-Missing district for ocd-division/country:us/state:ma/sldu:norfolk_worcester_middlesex
-Missing district for ocd-division/country:us/state:ma/sldu:1st_plymouth_and_norfolk
-Missing district for ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_plymouth
-Missing district for ocd-division/country:us/state:ma/sldu:berkshire_hampshire_franklin_and_hampden
-Missing district for ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire
-"""
     upper=Chamber(
         chamber_type="upper",
         name="Senate",
