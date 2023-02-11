@@ -19,25 +19,24 @@ legacy_districts = {
     "ma": [
         # These Districts were Retired in 2022
         District(
-            "Worcester, Hampden, Hampshire and Middlesex", "upper", division_id=None
+            "Worcester, Hampden, Hampshire and Middlesex", "upper", "ocd-division/country:us/state:ma/sldu:worcester_hampden_hampshire_and_middlesex"
         ),
         District(
-            "Berkshire, Hampshire, Franklin and Hampden", "upper", division_id=None
+            "Berkshire, Hampshire, Franklin and Hampden", "upper", "ocd-division/country:us/state:ma/sldu:berkshire_hampshire_franklin_and_hampden"
         ),
-        District("Worcester and Norfolk", "upper", division_id=None),
-        District("Second Suffolk and Middlesex", "upper", division_id=None),
-        District("Second Plymouth and Bristol", "upper", division_id=None),
-        District("Second Middlesex and Norfolk", "upper", division_id=None),
-        District("Second Hampden and Hampshire", "upper", division_id=None),
-        District("Plymouth and Norfolk", "upper", division_id=None),
-        District("Norfolk, Bristol and Plymouth", "upper", division_id=None),
-        District("Norfolk, Bristol and Middlesex", "upper", division_id=None),
-        District("First Suffolk and Middlesex", "upper", division_id=None),
-        District("First Plymouth and Bristol", "upper", division_id=None),
-        District("First Middlesex and Norfolk", "upper", division_id=None),
-        District("First Hampden and Hampshire", "upper", division_id=None),
-        District("First Middlesex and Norfolk", "upper", division_id=None),
-        District("4th Berkshire", "lower", division_id=None),
+        District("Worcester and Norfolk", "upper", "ocd-division/country:us/state:ma/sldu:worcester_and_norfolk"),
+        District("Second Suffolk and Middlesex", "upper", "ocd-division/country:us/state:ma/sldu:2nd_suffolk_and_middlesex"),
+        District("Second Plymouth and Bristol", "upper", "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_bristol"),
+        District("Second Middlesex and Norfolk", "upper", "ocd-division/country:us/state:ma/sldu:2nd_middlesex_and_norfolk"),
+        District("Second Hampden and Hampshire", "upper", "ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire"),
+        District("Plymouth and Norfolk", "upper", "ocd-division/country:us/state:ma/sldu:plymouth_and_norfolk"),
+        District("Norfolk, Bristol and Plymouth", "upper", "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_plymouth"),
+        District("Norfolk, Bristol and Middlesex", "upper", "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex"),
+        District("First Suffolk and Middlesex", "upper", "ocd-division/country:us/state:ma/sldu:1st_suffolk_and_middlesex"),
+        District("First Plymouth and Bristol", "upper", "ocd-division/country:us/state:ma/sldu:1st_plymouth_and_bristol"),
+        District("First Middlesex and Norfolk", "upper", "ocd-division/country:us/state:ma/sldu:1st_middlesex_and_norfolk"),
+        District("First Hampden and Hampshire", "upper", "ocd-division/country:us/state:ma/sldu:1st_hampden_and_hampshire"),
+        District("4th Berkshire", "lower", "ocd-division/country:us/state:ma/sldl:4th_berkshire"),
     ],
     "md": [
         District("2C", "lower", division_id=None),
